@@ -1,0 +1,8 @@
+python-telegram-bot>=20.0
+requests
+sentence-transformers
+faiss-cpu
+numpy
+langdetect
+deep_translator
+apscheduler

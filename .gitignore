@@ -1,0 +1,16 @@
+*.json
+all_manga_for_night.py
+collector_runner.py
+merge_data.py
+new_collector.py
+update_manga_details.py
+collector.py
+config.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+venv/
+fias_index.bin
